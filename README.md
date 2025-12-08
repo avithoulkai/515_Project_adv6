@@ -4,7 +4,7 @@ This repository contains a Google Colab notebook for ECE 515 students interested
 
 ## How to Use
 
-1. Open the notebook in Google Colab: https://colab.research.google.com/drive/1BDLvw5ucTPo_IeVRMfiKFcWMu3EPZobK?usp=sharing 
+1. Open the notebook in Google Colab (NOTE you must be signed in to your UIUC account): https://colab.research.google.com/drive/1BDLvw5ucTPo_IeVRMfiKFcWMu3EPZobK?usp=sharing 
 
 2. Follow the instructions in the notebook to run the code.
 
