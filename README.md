@@ -1,4 +1,4 @@
-### Hautus-Rosenbrock Controllability Test
+# Hautus-Rosenbrock Controllability Test
 
 This repository contains a Google Colab notebook for ECE 515 students interested in practicing or verifying a Hautus-Rosenbrock Controllability Test. 
 
@@ -8,7 +8,7 @@ This repository contains a Google Colab notebook for ECE 515 students interested
 
 2. Follow the instructions in the notebook to run the code.
 
-# Information about the Test
+### Information about the Test
 
 The Hautus-Rosenbrock test is a criterion for determining the controllability of a linear time-invariant (LTI) system given by the state-space representation:
 
